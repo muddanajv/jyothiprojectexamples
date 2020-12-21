@@ -1,7 +1,7 @@
 package artifactory.test;
 
 /**
- * Hello world! Test test2 test3
+ *  asdastestHello world! Test test2 test3
  */
 public class Multi3 {
     public static void main(String[] args) {
